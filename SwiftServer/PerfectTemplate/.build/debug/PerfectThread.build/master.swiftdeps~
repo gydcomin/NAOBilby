@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "db1e4d6e830c367928793c3b6bff66d7"
+build_time: [558160896, 310308000]
+inputs:
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/Promise.swift": [558160864, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/Threading.swift": [558160864, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/ThreadQueue.swift": [558160864, 0]

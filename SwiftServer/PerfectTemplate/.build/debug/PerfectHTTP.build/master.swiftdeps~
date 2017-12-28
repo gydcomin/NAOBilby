@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "29a11a17337c5fbe5aa2f0890c0a7957"
+build_time: [558161164, 425242000]
+inputs:
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPFilter.swift": [558160864, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPHeaders.swift": [558160864, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPMethod.swift": [558160864, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPRequest.swift": [558160864, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPResponse.swift": [558160864, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeReader.swift": [558160864, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeType.swift": [558160864, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/Routing.swift": [558160864, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/StaticFileHandler.swift": [558160864, 0]

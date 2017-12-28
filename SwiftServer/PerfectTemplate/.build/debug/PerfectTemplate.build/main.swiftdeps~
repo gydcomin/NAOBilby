@@ -1,0 +1,190 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "server"
+- "routes"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "FloatLiteralType"
+- "HTTPServer"
+- "IntegerLiteralType"
+- "PerfectError"
+- "Routes"
+- "StringLiteralType"
+- "UnicodeScalarType"
+- "print"
+- "routes"
+- "server"
+- "useMysql"
+depends-member:
+- ["Ps9AnyObject", "addRoutes"]
+- ["Ps9AnyObject", "documentRoot"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "serverPort"]
+- ["Ps9AnyObject", "start"]
+- ["Ps7CVarArg", "init"]
+- ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "get"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps9Equatable", "get"]
+- ["Ps9Equatable", "init"]
+- ["Ps5Error", "networkError"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["O11PerfectHTTP10HTTPMethod", "get"]
+- ["C17PerfectHTTPServer10HTTPServer", "addRoutes"]
+- ["C17PerfectHTTPServer10HTTPServer", "documentRoot"]
+- ["C17PerfectHTTPServer10HTTPServer", "init"]
+- ["C17PerfectHTTPServer10HTTPServer", "serverPort"]
+- ["C17PerfectHTTPServer10HTTPServer", "start"]
+- ["Ps8Hashable", "get"]
+- ["Ps8Hashable", "init"]
+- ["P10PerfectLib15JSONConvertible", "init"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- ["PSo8NSCoding", "init"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["O10PerfectLib12PerfectError", "networkError"]
+- ["V11PerfectHTTP6Routes", "add"]
+- ["V11PerfectHTTP6Routes", "init"]
+- ["P17PerfectHTTPServer14ServerInstance", "addRoutes"]
+- ["P17PerfectHTTPServer14ServerInstance", "documentRoot"]
+- ["P17PerfectHTTPServer14ServerInstance", "init"]
+- ["P17PerfectHTTPServer14ServerInstance", "serverPort"]
+- ["P17PerfectHTTPServer14ServerInstance", "start"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps33_ExpressibleByStringInterpolation", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "get"]
+- ["Ps9_Hashable", "init"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps7CVarArg"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps5Error"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "O11PerfectHTTP10HTTPMethod"
+- "C17PerfectHTTPServer10HTTPServer"
+- "Ps8Hashable"
+- "P10PerfectLib15JSONConvertible"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "O10PerfectLib12PerfectError"
+- "V11PerfectHTTP6Routes"
+- "P17PerfectHTTPServer14ServerInstance"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps33_ExpressibleByStringInterpolation"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectHTTP.swiftmodule"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectLib.swiftmodule"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectThread.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectCrypto.swiftmodule"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectHTTPServer.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectNet.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../asn1.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../tls1.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dtls1.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl2.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem2.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../e_os2.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl23.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl3.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pkcs7.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../sha.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dsa.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdsa.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rsa.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../zlib.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/czlib.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../obj_mac.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../hmac.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ec.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rand.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pqueue.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslconf.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../zconf.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dh.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdh.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../lhash.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../stack.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../safestack.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../zutil.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../kssl.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/openssl.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bn.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bio.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../crypto.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../comp.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../srtp.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../evp.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ossl_typ.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../buffer.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/http_parser.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../err.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../inftrees.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../symhacks.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../cms.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../objects.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslv.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509_vfy.h"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-mysqlclient.git-5333716826204139417/module.modulemap"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/module.modulemap"
+- "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/module.modulemap"
+interface-hash: "5e41c1f7fa4599b3ea902c02d67c020e"

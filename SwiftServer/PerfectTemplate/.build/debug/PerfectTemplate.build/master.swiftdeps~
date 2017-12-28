@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "dc43adab005c49299d6cac6bad0032d3"
+build_time: [558275369, 386817000]
+inputs:
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/Sources/File.swift": !dirty [9223372036854775807, 0]
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/Sources/main.swift": [558275222, 0]

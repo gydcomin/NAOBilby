@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectTemplate.build/master.swiftdeps"
+  },
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/Sources/File.swift": {
+    "dependencies": "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectTemplate.build/File.d",
+    "object": "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectTemplate.build/File.swift.o",
+    "swiftmodule": "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectTemplate.build/File~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectTemplate.build/File.swiftdeps"
+  },
+  "/Users/mac/Documents/SwiftServer/PerfectTemplate/Sources/main.swift": {
+    "dependencies": "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectTemplate.build/main.d",
+    "object": "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectTemplate.build/main.swift.o",
+    "swiftmodule": "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectTemplate.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/SwiftServer/PerfectTemplate/.build/debug/PerfectTemplate.build/main.swiftdeps"
+  }
+}
